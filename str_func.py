@@ -14,3 +14,4 @@ def foo2(s: str) -> str:
     :return:
     """
     return s.upper()
+
